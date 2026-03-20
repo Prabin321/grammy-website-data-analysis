@@ -28,7 +28,7 @@ The dataset includes:
 ## 📈 Key Visualizations
 
 ### 📊 Website Traffic Trends
-![Traffic Trend](visuals/traffic_trend.png)
+traffic_trend.png
 
 **Insight:**  
 Traffic spikes strongly align with major Grammy events such as award ceremonies and nominations, with peak traffic exceeding 3 million visitors. This indicates highly event-driven user behavior.
@@ -36,7 +36,7 @@ Traffic spikes strongly align with major Grammy events such as award ceremonies 
 ---
 
 ### 📊 Traffic Comparison: Show Night vs Regular Days
-![Pivot Table](visuals/pivot_show_vs_regular.png)
+pivot_show_vs_regular.png
 
 **Insight:**  
 Average traffic on Grammy Awards days (~1.39M visitors) is significantly higher than regular days (~32K visitors), highlighting the impact of major events on user activity.
@@ -44,7 +44,7 @@ Average traffic on Grammy Awards days (~1.39M visitors) is significantly higher 
 ---
 
 ### 📊 Engagement Metrics Comparison
-![KPI](visuals/kpi_summary.png)
+kpi_summary.png
 
 **Insight:**  
 - Recording Academy shows higher engagement across all metrics  
@@ -57,7 +57,7 @@ This suggests improved user experience and content relevance after the split.
 ---
 
 ### 📊 A/B Test Results
-![AB Test](visuals/ab_test_table.png)
+ab_test_table.png
 
 **Insight:**  
 The test group (split websites) outperformed the control group with:
